@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "15203069-d9ea-45f4-8c6d-060386eaaa88++114",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "15203069-d9ea-45f4-8c6d-060386eaaa88++114" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "15203069-d9ea-45f4-8c6d-060386eaaa88++114" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D3DE1638-B870-4F93-AC5E-8C9C6C7F05EC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "15203069-d9ea-45f4-8c6d-060386eaaa88++114" : "WorkSpace\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XFPhotoBrowser",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XFPhotoBrowser\/XFPhotoBrowser.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/112.74.67.239:3391",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "15203069-d9ea-45f4-8c6d-060386eaaa88++114"
+    }
+  ]
+}
